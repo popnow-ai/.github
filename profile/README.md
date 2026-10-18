@@ -30,6 +30,11 @@
 | [**popnow-skills**](https://github.com/popnow-ai/popnow-skills) | Agent skills that teach coding agents to generate media with PopNow |
 | [**popnow-python**](https://github.com/popnow-ai/popnow-python) | Python SDK for AI video, image and music generation |
 | [**popnow-js**](https://github.com/popnow-ai/popnow-js) | JavaScript and TypeScript SDK for AI video, image and music generation |
+| [**popnow-go**](https://github.com/popnow-ai/popnow-go) | Go SDK with zero dependencies |
+| [**popnow-php**](https://github.com/popnow-ai/popnow-php) | PHP 8.1+ SDK with zero dependencies |
+| [**popnow-cli**](https://github.com/popnow-ai/popnow-cli) | Command-line client: generate from your terminal or CI, with prices shown first |
+| [**popnow-comfyui**](https://github.com/popnow-ai/popnow-comfyui) | ComfyUI custom nodes for every PopNow model, no GPU needed |
+| [**n8n-nodes-popnow**](https://github.com/popnow-ai/n8n-nodes-popnow) | n8n community node for AI video, image and music steps in workflows |
 | [**popnow-api**](https://github.com/popnow-ai/popnow-api) | REST API reference, OpenAPI spec and copy-paste examples |
 | [**popnow-blender**](https://github.com/popnow-ai/popnow-blender) | Blender add-on: turn a camera view into AI renders, video and textures |
 
